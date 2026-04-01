@@ -34,5 +34,3 @@ La escena contiene los siguientes elementos principales:
 - Personaje principal (`HelloKitty`)
 ## Cámara
 La cámara sigue automáticamente a Hello Kitty durante el recorrido de la escena.
-
-Para que el movimiento funcione correctamente, el proyecto debe tener habilitado el paquete de entrada de :contentReference[oaicite:1]{index=1}.
