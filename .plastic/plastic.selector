@@ -1,0 +1,4 @@
+repository "MiPrimerTerreno 2026-03-29_19-33-37/MiPrimerTerreno@4674147569530@cloud"
+  path "/"
+    br "/main"
+    co "/main"
